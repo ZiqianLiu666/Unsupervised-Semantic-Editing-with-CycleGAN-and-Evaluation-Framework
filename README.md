@@ -11,8 +11,8 @@ If you are interested in the work, please check out the [**Project Report**](Res
 ## 📌 Background & Motivation
 
 In this project, we leverage **unpaired data** to learn the shared and distinct features between two facial subdomains:  
-- **Domain A**: Faces with eyeglasses  
-- **Domain B**: Faces without eyeglasses  
+- **Domain A**: Faces without eyeglasses  
+- **Domain B**: Faces with eyeglasses  
 
 The goal is to enable **cross-domain transformations** such as *adding* or *removing* eyeglasses.  
 
