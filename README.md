@@ -6,7 +6,7 @@ This project extends the original CycleGAN-based unsupervised feature disentangl
 
 Due to time constraints, the source code is still being organized and will be released later. Thanks for your understanding!  
 
-If you are interested in the work, please check out the (**Project Report**)[], which contains detailed workflows and experimental results.  
+If you are interested in the work, please check out the [**Project Report**](Research_project_1.pdf), which contains detailed workflows and experimental results.  
 
 ---
 
