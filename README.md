@@ -1,7 +1,7 @@
 # Unsupervised Semantic Editing with CycleGAN and Evaluation Framework
 
 This project extends the original CycleGAN-based unsupervised feature disentanglement and cross-domain translation by introducing:  
-- **Automated object detection–based evaluation metrics** (YOLO / GroundingDINO)  
+- **Automated object detection–based evaluation metrics** (YOLO / GroundingDINO / OpenCV)  
 - **Systematic hyperparameter tuning and analysis**  
 
 Due to time constraints, the source code is still being organized and will be released later. Thanks for your understanding!  
